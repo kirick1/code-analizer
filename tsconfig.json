@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "noImplicitAny": true,
+    "removeComments": true,
+    "lib": ["ES2020"],
+    "preserveConstEnums": true,
+    "sourceMap": true,
+    "outDir": "build",
+    "downlevelIteration": true
+  }
+}
